@@ -2,7 +2,7 @@ ifttt-java
 ==========
 
 ###Prerequsites:
-Need Maven installed on the machine.
+Need Maven installed on the machine. Uses super user privileges.
 
 ###Running instructions:
 <code>chmod u+x install.sh</code>
