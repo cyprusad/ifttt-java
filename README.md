@@ -2,12 +2,12 @@ ifttt-java
 ==========
 
 This app will allow you to track Tweets in real time by letting
-you to pick keywords that will be used to filter for relevant tweets!
-Every so oftern, these filtered tweets will be texted to a number that you
-will also set here. This way you will be able to be notified when a someone
-tweets about something relevant to you. If you look at the source, you will
-that the max number of tweets and max number of SMSs sent are capped, but
-but in a real world application, this daemon would run continuously without
+you pick keywords that will be used to filter out relevant Tweets!
+Every so often, these filtered Tweets will be texted to a number that you
+will also set here. This way you will be notified when someone
+tweets about something relevant to you. If you look at the source, you will see
+that the max number of tweets and the max number of SMSs sent are capped, but
+but in a real world application, a daemon would run continuously without
 being capped.
 
 Inspiration for this comes from the amazing www.ifttt.com
