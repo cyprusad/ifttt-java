@@ -1,4 +1,4 @@
-package com.canopylabs.interview;
+package com.app;
 
 import twitter4j.*;
 import twitter4j.conf.ConfigurationBuilder;

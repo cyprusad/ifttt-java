@@ -1,4 +1,4 @@
-package com.canopylabs.interview;
+package com.canopylabs.app;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

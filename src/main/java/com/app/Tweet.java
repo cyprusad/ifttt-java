@@ -1,4 +1,4 @@
-package com.canopylabs.interview;
+package com.app;
 
 /**
  * Created with IntelliJ IDEA.

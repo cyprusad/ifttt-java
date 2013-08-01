@@ -1,19 +1,9 @@
-package com.canopylabs.interview;
-
-import com.twilio.sdk.TwilioRestClient;
-import com.twilio.sdk.TwilioRestException;
-import com.twilio.sdk.resource.factory.SmsFactory;
-import com.twilio.sdk.resource.instance.Sms;
-import com.twilio.sdk.resource.list.SmsList;
+package com.app;
 
 import twitter4j.*;
-import twitter4j.conf.ConfigurationBuilder;
 
 import java.io.InputStreamReader;
-import java.util.HashMap;
-import java.util.Map;
 import java.io.BufferedReader;
-import java.util.StringTokenizer;
 
 
 /**
@@ -45,7 +35,7 @@ public class App {
 
         while (true) {
             System.out.println("Enter the space separated keywords to track tweets in real time..");
-            System.out.println("Sample input: canopylabs analytics java dbx (Only one space between terms please!)");
+            System.out.println("Sample input: ios android analytics java dbx (Only one space between terms please!)");
             System.out.println("(If the keywords aren't trending right now, and you want to see something, send out a tweet right now!)");
             keywords = br.readLine().trim().split(" ");
             System.out.print("You entered keywords:");

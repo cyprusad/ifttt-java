@@ -6,11 +6,12 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/App.java" changelist="1c8c8d75-2000-4197-ae5e-412b1a7f64bd" time="1373514980969" ignored="false" />
     <file path="/pom.xml" changelist="1c8c8d75-2000-4197-ae5e-412b1a7f64bd" time="1373443898763" ignored="false" />
-    <file path="/fragment.java" changelist="1c8c8d75-2000-4197-ae5e-412b1a7f64bd" time="1373419710813" ignored="false" />
+    <file path="/fragment.java" changelist="1c8c8d75-2000-4197-ae5e-412b1a7f64bd" time="1375389632579" ignored="false" />
     <file path="/twitter4j.properties" changelist="1c8c8d75-2000-4197-ae5e-412b1a7f64bd" time="1373426820287" ignored="false" />
     <file path="/Tweet.java" changelist="1c8c8d75-2000-4197-ae5e-412b1a7f64bd" time="1373508141150" ignored="false" />
     <file path="/SmsQueue.java" changelist="1c8c8d75-2000-4197-ae5e-412b1a7f64bd" time="1373509029042" ignored="false" />
     <file path="/TwitterClient.java" changelist="1c8c8d75-2000-4197-ae5e-412b1a7f64bd" time="1373515017806" ignored="false" />
+    <file path="/install.sh" changelist="1c8c8d75-2000-4197-ae5e-412b1a7f64bd" time="1375389191101" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,42 +72,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="App.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/canopylabs/interview/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="29" selection-start="2580" selection-end="2580" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TwitterClient.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/canopylabs/interview/TwitterClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="35" selection-start="1845" selection-end="1845" vertical-scroll-proportion="0.5847076">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SmsQueue.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/canopylabs/interview/SmsQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="56" selection-start="3600" selection-end="3600" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3349#3365#0" expanded="true" />
-                <element signature="e#4193#4824#0" expanded="true" />
-                <element signature="e#4813#4814#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.iml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/main.iml">
           <provider selected="true" editor-type-id="text-editor">
@@ -116,19 +81,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Runnable.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/Runnable.class">
+      <file leaf-file-name="App.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/app/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="9" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
+            <state line="15" column="13" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmsQueue.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/app/SmsQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="13" selection-start="704" selection-end="704" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="URLClassLoader.class" pinned="false" current="true" current-in-tab="true">
+        <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/net/URLClassLoader.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="0" selection-start="2128" selection-end="2128" vertical-scroll-proportion="1.4164649">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Tweet.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/canopylabs/interview/Tweet.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/app/Tweet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="59" selection-start="673" selection-end="673" vertical-scroll-proportion="0.0">
+            <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwitterClient.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/app/TwitterClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="install.sh" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/install.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="47" selection-start="708" selection-end="708" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Runnable.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/Runnable.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="9" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -159,14 +169,20 @@
         <option value="$PROJECT_DIR$/src/main/java/com/canopylabs/interview/SmsQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/canopylabs/interview/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/canopylabs/interview/TwitterClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/canopylabs/app/TwitterClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/SmsQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/Tweet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/TwitterClient.java" />
+        <option value="$PROJECT_DIR$/install.sh" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2089" />
-    <option name="y" value="-135" />
+    <option name="x" value="35" />
+    <option name="y" value="22" />
     <option name="width" value="1107" />
-    <option name="height" value="1080" />
+    <option name="height" value="778" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -257,6 +273,26 @@
               <option name="myItemId" value="DemoApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DemoApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DemoApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -282,7 +318,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -402,7 +438,7 @@
       <method />
     </configuration>
     <configuration default="false" name="DemoApp" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.canopylabs.interview.App" />
+      <option name="MAIN_CLASS_NAME" value="com.app.App" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -452,24 +488,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2089" y="-135" width="1107" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="35" y="22" width="1107" height="778" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27604166" sideWeight="0.2412818" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.275076" sideWeight="0.3195099" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.6701225" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32826748" sideWeight="0.6701225" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24960381" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21866164" sideWeight="0.7239583" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27604166" sideWeight="0.7587182" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21866164" sideWeight="0.724924" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.275076" sideWeight="0.6804901" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -542,20 +578,37 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/canopylabs/interview/App.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="22" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/main.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/Runnable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="9" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="22" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/twitter4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="72" selection-start="0" selection-end="246" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="4" column="72" selection-start="0" selection-end="246" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -565,20 +618,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/canopylabs/interview/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/twitter4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="72" selection-start="0" selection-end="246" vertical-scroll-proportion="0.09724473">
-          <folding />
-        </state>
+        <state line="4" column="72" selection-start="0" selection-end="246" vertical-scroll-proportion="0.09724473" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -602,40 +644,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/canopylabs/interview/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/Tweet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="29" selection-start="2580" selection-end="2580" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/canopylabs/interview/SmsQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="56" selection-start="3600" selection-end="3600" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3349#3365#0" expanded="true" />
-            <element signature="e#4193#4824#0" expanded="true" />
-            <element signature="e#4813#4814#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/canopylabs/interview/Tweet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="59" selection-start="673" selection-end="673" vertical-scroll-proportion="0.0">
+        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/canopylabs/interview/TwitterClient.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/TwitterClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="35" selection-start="1845" selection-end="1845" vertical-scroll-proportion="0.5847076">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="47" selection-start="708" selection-end="708" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="13" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/SmsQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="13" selection-start="704" selection-end="704" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/net/URLClassLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="2128" selection-end="2128" vertical-scroll-proportion="1.4164649">
+          <folding />
         </state>
       </provider>
     </entry>
