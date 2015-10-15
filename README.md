@@ -23,5 +23,5 @@ Need Maven installed on the machine. Uses super user privileges.
 ###Note:
 In its default state, it only queues up 20 tweets, and sends SMS messages for the first 3 queued tweets
 This can be changed by altering <code>MAX_QUEUE_SIZE</code> and <code>MAX_SMS_MESSAGES</code> respectively, in
-SmsQueue.java
+```SmsQueue.java```
 
